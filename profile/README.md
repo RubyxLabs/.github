@@ -9,7 +9,7 @@ This organization contains repositories to build AOSP ROMs for Redmi Note 12 Pro
 * [**Vendor Tree (rubyx)**](https://github.com/RubyxLabs/android_vendor_xiaomi_rubyx.git) (`android_vendor_xiaomi_rubyx`)
 * [**MiuiCamera Vendor Tree (rubyx)**](https://github.com/RubyxLabs/android_vendor_xiaomi_miuicamera-rubyx.git) (`android_vendor_xiaomi_miuicamera-rubyx`)
 * [**Kernel Sources**](https://github.com/RubyxLabs/android_kernel_xiaomi_mt6877.git) (`android_kernel_xiaomi_mt6877`)
-* [**Mediatek IMS**](https://github.com/RubyxLabs/android_hardware_dolby.git) (`android_hardware_dolby`)
+* [**Dolby**](https://github.com/RubyxLabs/android_hardware_dolby.git) (`android_hardware_dolby`)
 * [**Mediatek Sepolicy**](https://github.com/RubyxLabs/android_device_mediatek_sepolicy_vndr.git) (`android_device_mediatek_sepolicy_vndr`)
 * [**Mediatek Hardware**](https://github.com/RubyxLabs/android_hardware_mediatek.git) (`android_hardware_mediatek`)
 * [**Xiaomi Hardware**](https://github.com/RubyxLabs/android_hardware_xiaomi.git) (`android_hardware_xiaomi`)
